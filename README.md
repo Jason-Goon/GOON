@@ -94,7 +94,7 @@ Before you can run the bot, make sure you have the following dependencies instal
 
 ## Usage
 1. **Replace TOKEN in bot.run('TOKEN'):**
-   -get a token from the discord developer dashboard and replace TOKEN in the last line with your token 
+   **get a token from the discord developer dashboard and replace TOKEN in the last line with your token** 
     
 3. **Activate the virtual environment:**
 

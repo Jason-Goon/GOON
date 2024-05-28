@@ -93,14 +93,16 @@ Before you can run the bot, make sure you have the following dependencies instal
     ```
 
 ## Usage
-
-1. **Activate the virtual environment:**
+1. **Replace TOKEN in bot.run('TOKEN'):**
+   get a token from the discord developer dashboard and replace TOKEN in the last line with your token 
+    
+3. **Activate the virtual environment:**
 
     ```sh
     source venv/bin/activate
     ```
 
-2. **Run the bot:**
+4. **Run the bot:**
 
     ```sh
     python gooner.py

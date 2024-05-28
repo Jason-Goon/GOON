@@ -108,5 +108,5 @@ Before you can run the bot, make sure you have the following dependencies instal
 
 ## OpenBSD License
 
-To initialize an OpenBSD license for your project, create a `LICENSE` file in the root of your repository with the following content:
+This project is licensed under the Zero-Clause BSD License - see the LICENSE file for details.
 

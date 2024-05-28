@@ -9,7 +9,7 @@ import wave
 
 logging.basicConfig(level=logging.DEBUG)
 
-# Suppress noise about console usage from errors
+
 youtube_dl.utils.bug_reports_message = lambda: ''
 
 ytdl_format_options = {
@@ -23,7 +23,7 @@ ytdl_format_options = {
     'quiet': True,
     'no_warnings': True,
     'default_search': 'auto',
-    'source_address': '0.0.0.0'  # Bind to IPv4 since IPv6 addresses cause issues sometimes
+    'source_address': '0.0.0.0'  
 }
 
 ffmpeg_options = {
